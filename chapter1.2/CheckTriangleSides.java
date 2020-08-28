@@ -1,6 +1,6 @@
 // Exercise 1.2.15
-// javac CheckTriangleSides
-// java CheckTriangle Sides [a] [b] [c]
+// javac CheckTriangleSides.java
+// java CheckTriangleSides [a] [b] [c]
 
 public class CheckTriangleSides {
     public static void main(String[] args) {
