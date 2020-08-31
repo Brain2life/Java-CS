@@ -2,4 +2,4 @@ This repository represents programming exercises solved from Robert Sedgewick's 
 
 According exercise numbers can be found at the comment section of the files. 
 
-[chapter 1.2](/chapter1.2)
+[Chapter 1.2](/chapter1.2)
