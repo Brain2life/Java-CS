@@ -20,7 +20,7 @@ public class GenUniformRandomNumbers {
         System.out.println(fourthNum);
         System.out.println(fifthNum);
 
-        System.out.println("Average is " + average);
+        System.out.println("Average number is " + average);
         System.out.println("Minimal number is " + minimalNum);
         System.out.println("Maximal number is " + maximalNum);
     }
