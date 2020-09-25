@@ -1,2 +1,2 @@
 # Ignore all genenrated .class files
-.class
+*.class
